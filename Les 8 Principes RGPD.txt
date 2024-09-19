@@ -1,0 +1,19 @@
+Le Règlement général sur la protection des données (RGPD) énonce plusieurs grands principes relatifs à la protection des données personnelles. Les principes clés du RGPD sont les suivants :
+
+Licéité, loyauté et transparence : les données personnelles doivent être traitées de manière légale, loyale et transparente.
+
+Finalité : les données personnelles doivent être collectées pour des finalités spécifiques, explicites et légitimes, et ne peuvent pas être traitées ultérieurement de manière incompatible avec ces finalités.
+
+Minimisation des données : les données personnelles collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire pour atteindre les finalités pour lesquelles elles sont traitées.
+
+Exactitude : les données personnelles doivent être exactes et tenues à jour.
+
+Limitation de la conservation : les données personnelles ne doivent être conservées que pendant la durée nécessaire pour atteindre les finalités pour lesquelles elles sont traitées.
+
+Intégrité et confidentialité : les données personnelles doivent être traitées de manière à assurer leur sécurité, leur confidentialité et leur intégrité.
+
+Responsabilité : les responsables du traitement des données personnelles doivent être en mesure de démontrer leur conformité au RGPD et doivent être en mesure de prendre des mesures pour protéger les droits des personnes concernées.
+
+Droits des personnes concernées : le RGPD renforce les droits des personnes concernées, notamment le droit d'accès, le droit de rectification, le droit à l'effacement, le droit à la portabilité des données et le droit d'opposition.
+
+Il est important de comprendre ces principes et de les appliquer dans le traitement des données personnelles afin de se conformer aux exigences du RGPD.
